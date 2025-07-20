@@ -59,14 +59,14 @@ perfect-guess-name/
 
 ## 📸 Screenshot
 
-![Game Screenshot](screenshot.png)
+[Game Screenshot](screenshot.png)
 
 ---
 
 ## 🙌 Author
 
 **Garvit Kanojia**  
-[GitHub Profile »](https://github.com/fdkgarvit)
+[GitHub Profile »](https://github.com/idkgarvit)
 
 ---
 
