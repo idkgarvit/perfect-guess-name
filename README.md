@@ -59,7 +59,7 @@ perfect-guess-name/
 
 ## 📸 Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](screenshot(255).png)
 
 ---
 
