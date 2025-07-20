@@ -59,8 +59,7 @@ perfect-guess-name/
 
 ## 📸 Screenshot
 
-![Game Screenshot](<img width="1920" height="1080" alt="Screenshot (255)" src="https://github.com/user-attachments/assets/1d7f7d75-0f8e-49dd-88ad-6006484e1de6" />
-)
+![Game Screenshot](screenshot.png)
 
 ---
 
