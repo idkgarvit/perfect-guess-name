@@ -59,7 +59,7 @@ perfect-guess-name/
 
 ## 📸 Screenshot
 
-![Game Screenshot]([screenshot(255).png](https://github.com/idkgarvit/perfect-guess-name/blob/main/Screenshot%20(255).png))
+![Game Screenshot](screenshot.png)
 
 ---
 
