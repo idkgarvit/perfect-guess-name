@@ -9,20 +9,33 @@ A fun and simple command-line Python game where you try to guess the correct num
 - After each guess, the program tells you whether to guess higher or lower.
 - Once you guess it right, it displays the number of attempts taken.
 
+## ▶️ how to run
+
+1. Clone the repository:
+'''bash
+git clone https://github.com/idkgarvit/perfect-guess-name.git
+2. Navigate into the folder:
+'''bash
+cd perfect-guess-name
+3. Run the game:
+'''bash
+python perfect_guess.py
+
 ## 📂 File Structure
 
 perfect-guess-name/
 ├── perfect_guess.py # Main game logic
 ├── README.md # Project info and instructions
 
-🧠 Skills Used
+## 🧠 Skills Used
 
--Python basics
--Loops
--Conditional statements
--Input/output
+- Python basics
+- Loops
+- Conditional statements
+- Input/output
 
-📌 Future Improvements
--Add difficulty levels (easy/medium/hard)
--Limit number of guesses
--GUI version using Tkinter
+##📌 Future Improvements
+
+- Add difficulty levels (easy/medium/hard)
+- Limit number of guesses
+- GUI version using Tkinter
